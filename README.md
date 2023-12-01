@@ -1,5 +1,4 @@
 # ios-todolist-app
 iOS project for a todo list application
 
-![ezgif-3-7f47a59459](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/4f52c9b2-1639-4ddd-92a9-91ed2924d0e1)
-
+![todo-gif](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/87279491-b740-40dc-9f3b-aed138fdcb5f)
