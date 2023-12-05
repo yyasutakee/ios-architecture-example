@@ -9,4 +9,8 @@ iOS project for a todo list application
 
 https://martinfowler.com/bliki/PresentationDomainDataLayering.html
 
+Es kann ohne User-Interaktion getestet werden (UITest)
+
+Ohne Änderung sondern Erweiterung
+
 
