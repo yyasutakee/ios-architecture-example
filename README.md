@@ -15,4 +15,22 @@ Ohne Änderung sondern Erweiterung
 
 UI, Model, DataAccess werden häufig mit anderen Frameworks entwickelt (z.B in UI werden UIKit oder SwiftUI verwendet). Deshalb werden diese Komponente zuerst als ein abstraktes Form dargestellt und eine detaillierte Implementation erfolgt als eine konkrete Klasse.
 
+So können neue UIs schnell getestet werden und dann eingesetzt werden.
+
+you can make your own components by extending core components.
+
+view model -> view relevante logik
+
+詳細への密結合を防ぐために、抽象に依存させる
+
+詳細に依存していたら変更が大変になる
+
+なので抽象化して、詳細を切り離す -> 詳細に依存でなく、詳細が抽象に依存してくる
+
+jedes modul ist separat getestet und ganz ende app ist durch ui test getestet
+
+
+
+
+
 
