@@ -13,4 +13,6 @@ Es kann ohne User-Interaktion getestet werden (UITest)
 
 Ohne Änderung sondern Erweiterung
 
+UI, Model, DataAccess werden häufig mit anderen Frameworks entwickelt (z.B in UI werden UIKit oder SwiftUI verwendet). Deshalb werden diese Komponente zuerst als ein abstraktes Form dargestellt und eine detaillierte Implementation erfolgt als eine konkrete Klasse.
+
 
