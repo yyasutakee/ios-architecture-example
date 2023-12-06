@@ -8,10 +8,7 @@ iOS project for a todo list application
 ![Untitled Diagram drawio](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/e7f98096-c7d4-4674-8a12-b2506d187a68)
 
 Layering
-
-![layer drawio](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/bc27ecfb-dd7d-4883-adcf-912bae9b466e)
-
-![layer drawio](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/03541c46-8a2e-4a0f-b51c-57baab55757b)
+ 
 
 ![layer drawio](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/9c4fea42-e8b6-4778-b59d-f69616e48aa7)
 
