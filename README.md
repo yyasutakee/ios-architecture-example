@@ -11,7 +11,7 @@ Layering
 
 ![layer drawio](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/bc27ecfb-dd7d-4883-adcf-912bae9b466e)
 
-<img src="https://github.com/yyasutakee/ios-todolist-app/raw/main/assets/11753499/bc27ecfb-dd7d-4883-adcf-912bae9b466e.png" alt="layer drawio" width="400" height="300">
+
 
 
 
