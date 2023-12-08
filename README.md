@@ -12,6 +12,8 @@ Layering
 
 ![layer drawio](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/9c4fea42-e8b6-4778-b59d-f69616e48aa7)
 
+Everything only depends on interface (abstraction)
+
 
 
 
