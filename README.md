@@ -5,7 +5,7 @@ iOS project for a todo list application
 
 ## Architecture
 
-In this example, the application is structured by three layers (UI, business logic and persistence)
+In this example, the application is structured in three layers (UI, business logic and persistence).
 
 ![layer](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/1013dfe7-b278-4df1-9e73-ce0ecf6d63ad)
 
