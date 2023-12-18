@@ -17,6 +17,11 @@ details are implementes as concrete class (or struct)
 
 ![implementation](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/5b33ed33-3ec5-409d-87eb-18bd59057560)
 
+this make it possible to use different frameworks  and easily replace if needed
+
+![implementation-2](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/b6713243-a9a8-470e-bfdb-2e85e752dde9)
+
+
 
 
 
