@@ -9,6 +9,11 @@ In this example, the application is structured in three layers (UI, business log
 
 ![layer](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/1013dfe7-b278-4df1-9e73-ce0ecf6d63ad)
 
+Each layer exposes an interface as swift protocol which expose abstract behaviour of that layer.
+
+![layer-interface](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/f9979da3-2cc0-46ef-909c-5be9109fefa2)
+
+
 
 ![Untitled Diagram drawio](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/e7f98096-c7d4-4674-8a12-b2506d187a68)
 
