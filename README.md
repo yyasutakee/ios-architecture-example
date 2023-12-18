@@ -13,6 +13,12 @@ Each layer exposes an interface as swift protocol which expose abstract behaviou
 
 ![layer-interface](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/f9979da3-2cc0-46ef-909c-5be9109fefa2)
 
+details are implementes as concrete class (or struct)
+
+![implementation](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/5b33ed33-3ec5-409d-87eb-18bd59057560)
+
+
+
 
 
 ![Untitled Diagram drawio](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/e7f98096-c7d4-4674-8a12-b2506d187a68)
