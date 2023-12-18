@@ -1,13 +1,19 @@
 # ios-todolist-app
-iOS project for a todo list application
+iOS project implemented with layered architecture
 
 ![todo-gif](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/87279491-b740-40dc-9f3b-aed138fdcb5f)
 
-## Architecture
+## Layers
 
 In this example, the application is structured in three layers (UI, business logic and persistence).
 
+* UI: Responsible for the presentation of the application and takes input from the user
+* Business Logic: Application state will be managed here
+* Persistence: Responsible for saving and retriving persistent data for the application
+
 ![layer](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/1013dfe7-b278-4df1-9e73-ce0ecf6d63ad)
+
+## Abstraction
 
 Each layer exposes an interface as swift protocol which expose abstract behaviour of that layer.
 
@@ -25,6 +31,11 @@ the client access to the compoment via factories. so that client do not need to 
 which concrete object to create. 
 
 ![factory](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/4079e560-f6ea-46dc-9de1-d1ee1553a9c3)
+
+## concepts referenced for this project
+
+* Clean Architecture https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+* Layered Architecture https://martinfowler.com/bliki/PresentationDomainDataLayering.html
 
 
 
