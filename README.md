@@ -21,6 +21,10 @@ this make it possible to use different frameworks (e.x. SwiftUI and UIKit) and e
 
 ![implementation-2](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/b6713243-a9a8-470e-bfdb-2e85e752dde9)
 
+the client access to the compoment via factories. so that client do not need to care about
+which concrete object to create. 
+
+![factory](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/4079e560-f6ea-46dc-9de1-d1ee1553a9c3)
 
 
 
