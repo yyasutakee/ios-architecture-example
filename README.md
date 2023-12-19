@@ -32,6 +32,10 @@ which concrete object to create.
 
 ![factory](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/4079e560-f6ea-46dc-9de1-d1ee1553a9c3)
 
+## ViewModel
+
+## Testing
+
 ## concepts referenced for this project
 
 * Clean Architecture https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
