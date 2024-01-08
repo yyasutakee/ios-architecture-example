@@ -25,7 +25,10 @@ Each layer exposes an interface as swift protocol which expose the behaviour of 
 
 details are implementes as concrete class (or struct)
 
-![implementation](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/5b33ed33-3ec5-409d-87eb-18bd59057560)
+<!-- ![implementation](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/5b33ed33-3ec5-409d-87eb-18bd59057560) -->
+
+![abstraction-and-detail](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/daa1a8b0-7c0f-4dfd-9c94-e5eb7116926e)
+
 
 this make it possible to use different frameworks (e.g. SwiftUI and UIKit) and easily replace if needed. 
 
