@@ -15,7 +15,7 @@ In this example, the application is structured in three layers (UI, business log
 
 ## Abstraction
 
-Each layer exposes an interface as swift protocol which expose abstract behaviour of that layer.
+Each layer exposes an interface as swift protocol which expose the behaviour of that layer.
 
 ![layer-interface](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/f9979da3-2cc0-46ef-909c-5be9109fefa2)
 
