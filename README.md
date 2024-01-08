@@ -3,6 +3,10 @@ This repository contains an iOS project implemented with layered architecture
 
 ![todo-gif](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/87279491-b740-40dc-9f3b-aed138fdcb5f)
 
+# Architecture
+
+In the following how the application architecture look like
+
 ## Layers
 
 In this example, the application is structured in three layers (UI, business logic and persistence).
