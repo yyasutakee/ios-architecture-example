@@ -21,11 +21,9 @@ In this example, the application is structured in three layers (UI, business log
 
 Each layer exposes an interface as swift protocol which expose the behaviour of that layer.
 
-![layer-interface](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/f9979da3-2cc0-46ef-909c-5be9109fefa2)
+![layer](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/e75275d7-e19e-4f54-a43e-9234d200ca36)
 
 details are implementes as concrete class (or struct)
-
-<!-- ![implementation](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/5b33ed33-3ec5-409d-87eb-18bd59057560) -->
 
 ![abstraction-and-detail](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/daa1a8b0-7c0f-4dfd-9c94-e5eb7116926e)
 
