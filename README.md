@@ -23,7 +23,7 @@ In this example, the application is structured into three layers (UI, business l
 
 * UI: Responsible for the presentation of the application and takes input from the user.
 * Business Logic: Manages the state of the application.
-* Data Access: Responsible for storing and retrieving persistent data for the application.
+* Persistence: Responsible for storing and retrieving persistent data for the application.
 
 
 
