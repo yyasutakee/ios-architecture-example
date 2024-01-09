@@ -27,7 +27,7 @@ In this example, the application is structured into three layers (UI, business l
 
 
 
-<img src="https://github.com/yyasutakee/ios-todolist-app/assets/11753499/c9cffce0-b17f-400e-974f-fee32e6f18d1" width="200" />
+<img src="https://github.com/yyasutakee/ios-architecture-example/assets/11753499/d5ff71b8-9c80-41b8-8434-c35d7092c385" width="200" />
 
 
 
