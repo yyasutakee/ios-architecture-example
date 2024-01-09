@@ -1,7 +1,8 @@
 # iOS todo list app
 This repository contains an iOS project implemented with layered architecture.
 
-![todo-gif](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/87279491-b740-40dc-9f3b-aed138fdcb5f)
+<img src="https://github.com/yyasutakee/ios-todolist-app/assets/11753499/e4531daf-7b86-43ce-a23f-6a2edf617c8f" width="300" />
+
 
 # Architecture
 
@@ -33,7 +34,8 @@ Details are implemented as concrete classes (or structs).
 
 This makes it possible to use different frameworks (e.g. SwiftUI and UIKit in the UI layer), so you can easily switch implementations.
 
-![layer-frameworks](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/dfef5c87-2904-4f1c-8dd9-9af43d3edb65)
+![list-view](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/3a04056a-e786-43a5-9033-3934cfa8f96c)
+
 
 ## Factories
 
