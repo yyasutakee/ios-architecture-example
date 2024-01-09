@@ -77,7 +77,6 @@ The entire application can also be tested. A UI test is implemented to check tha
 
 ## Concepts referenced for this project
 
-## References
 * Clean Architecture
 Robert C. Martin, Clean Architecture: A Craftsman's Guide to Software Structure and Design, ISBN: 9780134494272
 
