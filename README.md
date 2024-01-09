@@ -1,7 +1,10 @@
 # iOS todo list app
-This repository contains an iOS project implemented with layered architecture.
 
+This project demonstrates an example of layered architecture for an ios application. Each layer is created as swift package.
 
+# Applicaiton
+
+The application provides todo list functionality.
 
 ![todo-gif](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/87279491-b740-40dc-9f3b-aed138fdcb5f)
 
