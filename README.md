@@ -2,7 +2,7 @@
 
 This project demonstrates an example of layered architecture for an ios application. Each layer is created as swift package.
 
-# Applicaiton
+## Applicaiton
 
 The application provides todo list functionality.
 
@@ -12,10 +12,10 @@ The application provides todo list functionality.
 <!-- ![final](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/89c2ce6b-a26b-494b-aa8a-15890067d9e4) -->
 
 
-
+<!-- 
 # Architecture
 
-This section describes the architecture of the application.
+This section describes the architecture of the application. -->
 
 ## Layers
 
@@ -58,7 +58,7 @@ which concrete object to be created.
 <img src="https://github.com/yyasutakee/ios-todolist-app/assets/11753499/0e6ee5d6-20b2-4ce7-86cb-c2f47905c99b" width="340" />
 
 
-# Testing
+## Testing
 
 To test whether the application works correctly, a data access object for the test can be created to simulate the behaviour of the database.
 
