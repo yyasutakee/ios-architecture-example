@@ -1,4 +1,4 @@
-# iOS todo list app
+# iOS architecture example
 
 This project demonstrates an example of layered architecture for an ios application. Each layer is created as swift package.
 
