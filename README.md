@@ -1,5 +1,5 @@
-# ios-todolist-app
-This repository contains an iOS project implemented with layered architecture
+# iOS todo list app
+This repository contains an iOS project implemented with layered architecture.
 
 ![todo-gif](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/87279491-b740-40dc-9f3b-aed138fdcb5f)
 
@@ -23,44 +23,46 @@ In this example, the application is structured into three layers (UI, business l
 
 ## Abstraction
 
-Each layer exposes an interface as swift protocol which expose the behaviour of that layer.
+Each layer exposes an interface as swift protocol, which expose the behaviour of that layer.
 
-![layer](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/c6d8cbcd-88ad-406b-9b51-947b24781168)
+<img src="https://github.com/yyasutakee/ios-todolist-app/assets/11753499/c6d8cbcd-88ad-406b-9b51-947b24781168" width="200" />
 
-Details are implementes as concrete classes (or structs).
+Details are implemented as concrete classes (or structs).
 
-![layer-concrete](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/d1120f00-2c24-41bf-ae9e-36b69f0ea0f3)
+<img src="https://github.com/yyasutakee/ios-todolist-app/assets/11753499/d1120f00-2c24-41bf-ae9e-36b69f0ea0f3" width="330" />
 
-This make it possible to use different frameworks (e.g. In UI Layer SwiftUI and UIKit) and easily replace if needed. 
+This makes it possible to use different frameworks (e.g. SwiftUI and UIKit in the UI layer), so you can easily switch implementations.
 
 ![layer-frameworks](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/dfef5c87-2904-4f1c-8dd9-9af43d3edb65)
 
-## Factory
+## Factories
 
+A factory is used to create a concrete component.
 
-To create a concrete component a factory is used
+<img src="https://github.com/yyasutakee/ios-todolist-app/assets/11753499/5c7ce516-0408-46b9-a7ac-e0da187ac98e" width="200" />
 
-![factory](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/5c7ce516-0408-46b9-a7ac-e0da187ac98e)
+Thus, the client doesn't need to care about
+which concrete object to be created. 
 
-Thus the client doesn't need to care about
-which concrete object to create. 
+<img src="https://github.com/yyasutakee/ios-todolist-app/assets/11753499/0e6ee5d6-20b2-4ce7-86cb-c2f47905c99b" width="340" />
 
-![factory-concrete](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/0e6ee5d6-20b2-4ce7-86cb-c2f47905c99b)
 
 # Testing
 
-To test the application correctly work a data access object for testing purpose can be created which simulate the behaviour of the database.
+To test whether the application works correctly, a data access object for the test can be created to simulate the behaviour of the database.
 
-![test](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/2a10fd86-f6ff-4399-9d8b-7398e52990ae)
+<img src="https://github.com/yyasutakee/ios-todolist-app/assets/11753499/2a10fd86-f6ff-4399-9d8b-7398e52990ae" width="200" />
 
 
-Using thie object as stub the model layer can be tested.
+Using the object as a stub the model layer can be tested.
 
-![test2](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/360ec74a-e770-4a08-9deb-99a0a574c22c)
 
-Also the whole application can be tested. To test the ui works correctly ui test can be executed.
+<img src="https://github.com/yyasutakee/ios-todolist-app/assets/11753499/360ec74a-e770-4a08-9deb-99a0a574c22c" width="320" />
 
-![test3](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/fa4cebe9-b4b5-432a-8d95-7fc452d1c074)
+
+The entire application can also be tested. A UI test is implemented to check that the UI works correctly.
+
+<img src="https://github.com/yyasutakee/ios-todolist-app/assets/11753499/fa4cebe9-b4b5-432a-8d95-7fc452d1c074" width="320" />
 
 
 
