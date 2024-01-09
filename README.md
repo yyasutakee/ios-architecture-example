@@ -1,7 +1,9 @@
 # iOS todo list app
 This repository contains an iOS project implemented with layered architecture.
 
-<img src="https://github.com/yyasutakee/ios-todolist-app/assets/11753499/89c2ce6b-a26b-494b-aa8a-15890067d9e4" width="300" />
+
+
+![todo-gif](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/87279491-b740-40dc-9f3b-aed138fdcb5f)
 
 
 <!-- ![final](https://github.com/yyasutakee/ios-todolist-app/assets/11753499/89c2ce6b-a26b-494b-aa8a-15890067d9e4) -->
