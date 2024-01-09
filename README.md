@@ -67,10 +67,15 @@ The entire application can also be tested. A UI test is implemented to check tha
 
 
 
-## concepts referenced for this project
+## Concepts referenced for this project
 
-* Clean Architecture https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+## References
+* Clean Architecture
+Robert C. Martin, Clean Architecture: A Craftsman's Guide to Software Structure and Design, ISBN: 9780134494272
+
 * Layered Architecture https://martinfowler.com/bliki/PresentationDomainDataLayering.html
+
+* Stubs https://martinfowler.com/articles/mocksArentStubs.html
 
 
 
